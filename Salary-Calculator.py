@@ -19,7 +19,7 @@ print(f'Employee Name: {name}')
 print()
 #Displays the user uinputed hours and hourly rate
 print(f'Hours: {hours_worked}')
-print(f'Hourly Rate: \t ${hourly_rate:>10}')
+print(f'Hourly Rate: \t ${hourly_rate:>10.2f}')
 #Prints the calculation of gross pay
 print(f'Gross Pay: \t ${gross_pay:>10.2f}')
 print()
