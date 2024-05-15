@@ -4,5 +4,7 @@ This console-based Python program allows a user to get an estimate of their sala
 
 # Things I learned
 
-1. Basic math logic in a simple calculator program
+1. Programming basic math logic
+2. Formatting of console output
+3. Solving a problem using a program
    
